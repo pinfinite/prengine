@@ -24,3 +24,13 @@
 /dist/
 /nbdist/
 /.nb-gradle/
+
+### Eclipse ###
+.gradle
+.settings
+.classpath
+/bin
+*.class
+.project
+gradlew
+gradlew.bat
